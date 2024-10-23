@@ -141,4 +141,4 @@ The data set contains the following diseases:
 
   
 
-Created by [Jai Prakash](#https://github.com/jaisharma06) - feel free to contact me! 😃
+Created by [Jhalak Shrotriya](#https://github.com/jshrotri) - feel free to contact me! 😃
